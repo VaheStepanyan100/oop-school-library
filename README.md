@@ -12,6 +12,9 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -60,6 +63,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+- Ruby
+- GitHub
+
 ### Setup
 
 Clone this repository to your desired folder:
@@ -69,6 +75,29 @@ Example commands:
 ```sh
   cd my-folder
   git clone git@github.com:VaheStepanyan100/oop-school-library.git
+```
+
+### Install
+
+Install the required gems by running:
+
+```sh
+  bundle install
+```
+
+### Usage
+
+Use the following command to run the program:
+
+```sh
+  ruby my-file.rb
+```
+### Run tests
+
+Use the following command to run the tests:
+
+```sh
+  rubocop
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
