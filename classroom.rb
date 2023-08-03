@@ -1,6 +1,6 @@
 require_relative 'student'
 
-class Crassroom
+class Classroom
   attr_accessor :label
   attr_reader :students
 

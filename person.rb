@@ -10,7 +10,7 @@ class Person < Nameable
     @rentals = []
   end
 
-  attr_accessor :name, :age
+  attr_accessor :name, :age, :type
   attr_reader :id, :rentals
 
   def add_rental(rental)
