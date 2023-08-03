@@ -90,7 +90,7 @@ Install the required gems by running:
 Use the following command to run the program:
 
 ```sh
-  ruby my-file.rb
+  ruby main.rb
 ```
 ### Run tests
 
