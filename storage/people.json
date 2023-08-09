@@ -1,0 +1,26 @@
+[
+  {
+    "id": 120,
+    "type": "Student",
+    "name": "Vahe",
+    "age": "100",
+    "parent_permission": true,
+    "rentals": []
+  },
+  {
+    "id": 179,
+    "type": "Teacher",
+    "name": "Covey",
+    "age": "50",
+    "specialization": "habits",
+    "parent_permission": true,
+    "rentals": [
+      {
+        "date": "18-12-2020"
+      },
+      {
+        "date": "14-08-2022"
+      }
+    ]
+  }
+]
